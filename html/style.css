@@ -1,0 +1,24 @@
+     ul li{
+            font-size:30px;
+            font-family:pristina;
+            font-weight:bold;
+           }
+          p{
+            width:750px;
+            height:400px;
+            margin-left:50px;
+            margin-bottom:50px;
+            font-size:25px;
+            line-height:30px;
+            text-align:justify;
+            float:left;
+            
+            }
+        img{
+            float:right;
+            height:430px;
+            width :400px;
+            position:top right;
+            margin-bottom:50px;
+            margin-top:30px;
+            }
